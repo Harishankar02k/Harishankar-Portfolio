@@ -16,14 +16,14 @@ const style = {
 //Home Page
 const greeting = {
 
-   title: "Divya Rajput",
-  logo_name: "Divya Rajput",
+   title: "Harishankar Kumar",
+  logo_name: "Harishankar Kumar",
   nickname: " Software Developer",
   subTitle:
     "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1lPQVOnWgA-5A2yKYUb8Lbp4c1vQ_wirM/view?usp=sharing",
-  portfolio_repository: "https://drive.google.com/file/d/1lPQVOnWgA-5A2yKYUb8Lbp4c1vQ_wirM/view?usp=sharing",
+    "#",
+  portfolio_repository: "#",
 };
 
 const socialMediaLinks = [
@@ -38,38 +38,38 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/Diu2912",
+    link: "https://github.com/Harishankar02k",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/divya-rajput-64424314a/",
+    link: "https://www.linkedin.com/in/harishankar-kumar-1b918419a/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "YouTube",
-    link: "https://www.youtube.com/channel/UC8ipagpRLwezlT8M4QS7sPw?disable_polymer=true",
+    link: "https://www.youtube.com/channel/UC0bwSSON5gbexMsUCXxS5MA",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
-    link: "mailto:divyarajput6828@gmail.com",
+    link: "mailto:harishankar02k@gmail.com ",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "Twitter",
-    link: "https://twitter.com/diu2912",
+    link: "https://twitter.com/hari2me",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
   
   {
     name: "Instagram",
-    link: "https://www.instagram.com/diu_2912/",
+    link: "https://www.instagram.com/harishankar02k/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -284,7 +284,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/divyarajput6828",
+      profileLink: "https://www.hackerrank.com/harishankar2me",
     },
     {
       siteName: "Codechef",
@@ -292,7 +292,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/diu2912",
+      profileLink: "https://www.codechef.com/users/harishankar02k",
     },
     
     {
@@ -301,7 +301,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@divya2401",
+      profileLink: "https://www.hackerearth.com/@Hari2shankar8",
     },
     
   ],
@@ -310,31 +310,30 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Marathwada Mitra Mandal's College of Engineering, Pune",
-      subtitle: "B.E in Computer Engineering",
-      logo_path: "iiitk_logo.png",
+      title: "IES College of Technology, Bhopal",
+      subtitle: "B.E in Electronics and Communication Engineering",
+      logo_path: "rgpv.png",
       alt_name: "IIITDM Kurnool",
-      duration: "2017 - 2020",
+      duration: "2016 - 2020",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ Current CGPA : 9.18",
+        "⚡ Current CGPA : 7.32",
       ],
-      website_link: "https://www.mmcoe.edu.in/",
+      website_link: "https://www.iesbpl.ac.in/IES.php",
     },
     
     {
-      title: "Government Polytechnic, Pune",
-      subtitle: "Diploma in Computer Engineering",
+      title: "D.A.V Public School,Jahanabad",
+      subtitle: "XII (SCIENCE)",
       logo_path: "logo.png",
       alt_name: "IIITDM Kurnool",
-      duration: "2014 - 2017",
+      duration: "2014 - 2016",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms etc.",
         "⚡ Apart from this, I have done courses on Soft skils and personality development.",
-        "⚡ Percentage : 87.27%",
+        "⚡ Percentage : 62.40%",
       ],
-      website_link: "https://gppune.ac.in/userindex.php",
+      website_link: "http://davjehanabad.com/",
     },
     
   ],
@@ -351,25 +350,25 @@ const certifications = {
       subtitle: "- IBM",
       logo_path: "ibm_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/6ATFULAQBZ33",
+        "https://www.coursera.org/account/accomplishments/certificate/SUGNM76YY2CN",
       //alt_name: "IBM",
       color_code: "#FFFFFF",
     },
     {
-      title: "Getting Started with AWS Machine Learning",
-      subtitle: "- AWS",
-      logo_path: "AWS.png",
+      title: "Front-End Web Development with React",
+      subtitle: "- The Hong Kong University ",
+      logo_path: "ustLogo.jpeg",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/8PREBAPF5CHZ",
+        "https://www.coursera.org/account/accomplishments/certificate/E76K9Q9YSTRY",
      // alt_name: "deeplearning.ai",
       color_code: "#FFFFFF",
     },
     {
-      title: "Building Conversational Experiences with Dialogflow",
+      title: "Managing Machine Learning Projects with Google Cloud",
       subtitle: "- GCP Training",
       logo_path: "google_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/ZW5R8EY6VEUF",
+        "https://www.coursera.org/account/accomplishments/certificate/92SFHDH8BZZ8",
       alt_name: "Google",
       color_code: "#FFFFFF",
     },
@@ -378,52 +377,52 @@ const certifications = {
       subtitle: "- GCP Training",
       logo_path: "google_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/QM6HN6XUAWTA",
+        "https://www.coursera.org/account/accomplishments/certificate/5J4NDQENB8M6",
       alt_name: "IBM",
       color_code: "#FFFFFF",
     },
     {
-      title: "Introduction to Flutter Development Using Dart",
-      subtitle: "- The App Brewery",
-      logo_path: "The App Brewery.png",
+      title: "Scrum Foundations Professional Certificate SFPC",
+      subtitle: "- SFPC",
+      logo_path: "certi.jpeg",
       certificate_link:
-        "https://1drv.ms/b/s!AocBjqKHrt-4emr8pyUhF9QSYv0?e=J8UlYM",
+        "https://drive.google.com/file/d/1LjwVvb4UHN0Q7YgJiQSQVMeYYeXtXBgf/view",
       alt_name: "Microsoft",
       color_code: "#FFFFFF",
     },
     {
-      title: "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+      title: "Ultimate Google Certified Professional Cloud Architect 2020",
       subtitle: "- Udemy",
       logo_path: "Udemy.png",
       certificate_link:
-        "https://www.udemy.com/certificate/UC-2bd1edc0-c0c3-4c88-8ec1-8af71b74e00e/",
+        "https://www.udemy.com/certificate/UC-16c189ce-907e-4875-ac09-7a80923535d9/",
       alt_name: "IBM",
       color_code: "#FFFFFF",
     },
     {
-      title: "Deep Learning and NLP A-Z™: How to create a ChatBot",
+      title: "Adobe Photoshop CC 2020 Master Course",
       subtitle: "- Udemy",
       logo_path: "Udemy.png",
       certificate_link:
-        "https://www.udemy.com/certificate/UC-9TU7FZ7A/",
+        "https://www.udemy.com/certificate/UC-a27a654c-030a-4b8d-8c4d-9adbacf989f7/",
       alt_name: "Google",
       color_code: "#FFFFFF",
     },
     {
-      title: "Professional Cloud Developer : Google Certification2019",
+      title: "The Complete JavaScript Course For Web Development Beginners",
       subtitle: "- Udemy",
       logo_path: "Udemy.png",
       certificate_link:
-        "https://www.udemy.com/certificate/UC-ca140637-17b2-48b2-b4e2-6bb2bf12987f/",
+        "https://www.udemy.com/certificate/UC-69392037-55f6-49c7-972b-643d8b0c609c/",
       alt_name: "deeplearning.ai",
       color_code: "#FFFFFF",
     },
     {
-      title: "Master MERN Stack by Building Complete Blog Project [2020]",
+      title: "Data Science A-Z™: Real-Life Data Science Exercises Included",
       subtitle: "- Udemy",
       logo_path: "Udemy.png",
       certificate_link:
-        "https://www.udemy.com/certificate/UC-093388f6-1ca2-4aa7-9f49-6afed6e0c8e0/",
+        "https://www.udemy.com/certificate/UC-84ee2aca-b89a-454b-a0f0-fba94021824b/",
       alt_name: "Coursera",
       color_code: "#FFFFFF",
     },
@@ -527,14 +526,14 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "IEEE Student Branch Treasurer",
-          company: "IEEE",
-          company_url: "https://www.ieee.org/",
-          logo_path: "IEEE-Logo.jpg",
+          title: "Arctic Code Vault Contributor",
+          company: "Github",
+          company_url: "https://github.com/",
+          logo_path: "github_logo.png",
           duration: "Dec 2019 - Present",
           location: "Pune, Maharashtra",
           description:
-            "Maintain the appropriate Branch bank account,Prepare an annual budget for inclusion with the Annual Plan of Activities report and prepare the final Financial Statement for inclusion in the Annual Report of Activities.",
+            "Arctic Code Vault Contributor badge in the highlights section of a profile will reveal which of a user's projects were saved in this snapshot. GitHub created the Arctic Code Vault Badge to honor the millions of developers worldwide who contributed to the open-source project.",
           color: "#4285F4",
         },
         {
@@ -548,17 +547,7 @@ const experience = {
             "Coding Club  is a program for university students to lead the awareness and use of coding development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
           color: "#4285F4",
         },
-        {
-          title: "Kiran Scholar",
-          company: "Persistent Systems",
-          company_url: "https://www.persistent.com/",
-          logo_path: "p.jpeg",
-          duration: "Oct 2017 - Sept 2020",
-          location: "Pune, Maharashtra",
-          description:
-            "Persisitent Foundation has a flagship program ‘Kiran – Scholarship and mentoring program’ for girls studying Computer Scicence, IT and Bioinformatics. Employees from Persistent Systems mentor these students. Every year some special sessions are organised for these girls where technical inputs from the experts are given.",
-          color: "#000000",
-        },
+        
         
       ],
     },
