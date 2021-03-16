@@ -62,7 +62,7 @@ const socialMediaLinks = [
   },
   {
     name: "Twitter",
-    link: "https://twitter.com/hari2me",
+    link: "https://twitter.com/Hari08488064",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
@@ -318,23 +318,11 @@ const degrees = {
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ Current CGPA : 7.32",
       ],
       website_link: "https://www.iesbpl.ac.in/IES.php",
     },
     
-    {
-      title: "D.A.V Public School,Jahanabad",
-      subtitle: "XII (SCIENCE)",
-      logo_path: "logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2014 - 2016",
-      descriptions: [
-        "⚡ Apart from this, I have done courses on Soft skils and personality development.",
-        "⚡ Percentage : 62.40%",
-      ],
-      website_link: "http://davjehanabad.com/",
-    },
+    
     
   ],
 };
